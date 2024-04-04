@@ -6,4 +6,4 @@ in a seperate terminal:
 
 to run the test client:
 
-type: "go run main.go project1" 
+type: "go run main.go project3" 
